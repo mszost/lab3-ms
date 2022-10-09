@@ -26,7 +26,7 @@ https://stackoverflow.com/questions/7720730/how-to-align-absolutely-positioned-e
 
 ---
 
-**JSONs and web.config**
+**Node.js deployment template**
 
 https://github.com/EricJPogue/node-js-on-azure-template
 
@@ -34,16 +34,4 @@ https://github.com/EricJPogue/node-js-on-azure-template
 
 ## Instructions:
 Run index.html in a compatible browser when all of the required files are present in the same directory
-OR go to [url] in a compatible browser
-
-## Required files:
-
-index.css
-
-index.html
-
-gi-1.html
-
-gi-2.html
-
-gi-3.html
+OR go to https://lab3-ms.azurewebsites.net/ in a compatible browser
