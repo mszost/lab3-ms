@@ -63,6 +63,12 @@ u {
     font-family:'Mukta';
 }
 
+i {
+    color: rgb(255, 0, 98);
+    font-family: 'Mukta';
+    text-align: center;
+}
+
 iframe{ 
     float: right; 
     border-radius: 10%; 
