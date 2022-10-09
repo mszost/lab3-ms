@@ -1,4 +1,4 @@
-# Sprint 02 - Getting to Know Each Other
+# Sprint 03 - Getting to Know Each Other (on Azure)
 
 #### Mike Szostak (michaeldszostak@lewisu.edu)
 
